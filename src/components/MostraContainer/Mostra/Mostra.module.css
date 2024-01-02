@@ -1,0 +1,19 @@
+.mostra_conteiner{
+    display: grid;
+    align-items: stretch;
+    gap: 3px;
+    margin: 5px;
+    
+}
+
+.texto_grande{
+    font-size: 1em;
+    justify-self: center;
+    margin: 0;
+}
+
+.texto_pequeno{
+    font-size: 0.75em;
+    justify-self: end;
+    margin: 0;
+}

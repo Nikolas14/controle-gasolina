@@ -1,0 +1,38 @@
+.input_container{
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 3em;
+  gap: 5px;
+  background-color: rgb(102, 102, 102);
+  border-radius: 20px;
+}
+
+.inputLitro{
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+}
+
+.inputTotal{
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+
+}
+
+.inputTipoCombustivel{
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+
+}
+
+h1{
+  color: black;
+}
+.btAddAbastecida {
+    width: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: black;
+  }

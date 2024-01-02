@@ -1,0 +1,26 @@
+.abastecidaDetail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(54, 114, 72, 0.308);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.aaitem_container:hover{
+    outline: 4px auto -webkit-focus-ring-color;
+    border-color: #646cff;
+    background-color: rgba(68, 46, 110, 0.308);
+}
+
+.abastecidaDetailContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(131, 131, 131, 0.308);
+    border-radius: 10px;
+    padding: 10px;
+}
+
